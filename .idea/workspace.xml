@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8a837c3-e6e1-49a5-83ff-f63c18c5b7ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2O0XqB6Xsy9gakqXjXHUlDecZ3K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gomathilakshmir/IdeaProjects/LearnAppium/src/test/org.test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/org.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LongPress">
+    <configuration name="DragAndDrop.DandDDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumBlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumUdemy" />
+      <option name="MAIN_CLASS_NAME" value="AppiumBlog.DragAndDrop" />
+      <option name="METHOD_NAME" value="DandDDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongPress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumBlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumUdemy" />
+      <option name="MAIN_CLASS_NAME" value="AppiumBlog.LongPress" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongPress.LongPressfunction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumBlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumUdemy" />
+      <option name="MAIN_CLASS_NAME" value="AppiumBlog.LongPress" />
+      <option name="METHOD_NAME" value="LongPressfunction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollPage.ScrollDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumBlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumUdemy" />
+      <option name="MAIN_CLASS_NAME" value="AppiumBlog.ScrollPage" />
+      <option name="METHOD_NAME" value="ScrollDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwipePage.SwipeDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumBlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumUdemy" />
+      <option name="MAIN_CLASS_NAME" value="AppiumBlog.SwipePage" />
+      <option name="METHOD_NAME" value="SwipeDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LongPress" />
+        <item itemvalue="TestNG.DragAndDrop.DandDDemo" />
+        <item itemvalue="TestNG.SwipePage.SwipeDemo" />
+        <item itemvalue="TestNG.ScrollPage.ScrollDemo" />
+        <item itemvalue="TestNG.LongPress.LongPressfunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8a837c3-e6e1-49a5-83ff-f63c18c5b7ed" name="Changes" comment="" />
+      <created>1680698661677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680698661677</updated>
+      <workItem from="1680698662737" duration="42000" />
+      <workItem from="1680698708632" duration="513000" />
+      <workItem from="1680699345547" duration="1311000" />
+      <workItem from="1680703782717" duration="6239000" />
+      <workItem from="1680755693816" duration="17049000" />
+      <workItem from="1681372357782" duration="605000" />
+      <workItem from="1681918437468" duration="40000" />
+      <workItem from="1681918482229" duration="2146000" />
+      <workItem from="1681986429886" duration="1675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
